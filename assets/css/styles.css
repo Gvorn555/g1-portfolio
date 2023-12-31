@@ -448,6 +448,7 @@ border: 1px solid rgba(255, 255, 255, 0.3);
   
 }
 .social-link:hover{
+  transform: translateY(-10px);
   background-color: #22c55e;
   transition: 0.5s;
 }
